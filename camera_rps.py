@@ -59,7 +59,7 @@ def winnerEval(comp, player):
         elif winner == "P":
             pWins += 1
             round += 1 
-            updated True
+            
     print(round)
     return winner 
 
